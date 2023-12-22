@@ -28,5 +28,5 @@ const Cart = ({cart, price, ratings, img, shipping}) => {
         </div>
     );
 };
-
+ 
 export default Cart;
